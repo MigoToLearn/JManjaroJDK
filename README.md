@@ -8,5 +8,6 @@ Helper to set default jdk, thrown together not neat or well made.
 - - - -
 
 # Requirements
-## GKSU
-## Archlinux-java script
+
+#### GKSU ####
+#### archlinux-java script ####
